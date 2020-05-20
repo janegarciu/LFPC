@@ -1,0 +1,16 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(459,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Assignment1 - LEX.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Main.cpp
+C:\Users\tanya\Desktop\Lexer\Lexer\Assignment1 - LEX\Assignment1 - LEX\Main.cpp(57,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\tanya\Desktop\Lexer\Lexer\Assignment1 - LEX\Assignment1 - LEX\Main.cpp(136,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\tanya\Desktop\Lexer\Lexer\Assignment1 - LEX\Assignment1 - LEX\Main.cpp(185,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\tanya\Desktop\Lexer\Lexer\Assignment1 - LEX\Assignment1 - LEX\Main.cpp(195,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\tanya\Desktop\Lexer\Lexer\Assignment1 - LEX\Assignment1 - LEX\Main.cpp(201,18): warning C4018: '<': signed/unsigned mismatch
+C:\Users\tanya\Desktop\Lexer\Lexer\Assignment1 - LEX\Assignment1 - LEX\Main.cpp(214,19): warning C4018: '<': signed/unsigned mismatch
+C:\Users\tanya\Desktop\Lexer\Lexer\Assignment1 - LEX\Assignment1 - LEX\Main.cpp(246,19): warning C4018: '<': signed/unsigned mismatch
+C:\Users\tanya\Desktop\Lexer\Lexer\Assignment1 - LEX\Assignment1 - LEX\Main.cpp(254,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\tanya\Desktop\Lexer\Lexer\Assignment1 - LEX\Assignment1 - LEX\Main.cpp(255,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\tanya\Desktop\Lexer\Lexer\Assignment1 - LEX\Assignment1 - LEX\Main.cpp(263,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\tanya\Desktop\Lexer\Lexer\Assignment1 - LEX\Assignment1 - LEX\Main.cpp(279,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\tanya\Desktop\Lexer\Lexer\Assignment1 - LEX\Assignment1 - LEX\Main.cpp(309,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\tanya\Desktop\Lexer\Lexer\Assignment1 - LEX\Assignment1 - LEX\Main.cpp(341,37): warning C4018: '<': signed/unsigned mismatch
+  Assignment1 - LEX.vcxproj -> C:\Users\tanya\Desktop\Lexer\Lexer\Assignment1 - LEX\Debug\Lexer.exe
